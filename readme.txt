@@ -20,7 +20,7 @@ bit-wise and operation :
 00001110101000101110001101001010
 00000000000000001111111111111111
 --------------------------------
-00000000000000001110001101001010 -> which is 58186 and is stored in maskValue
+00000000000000001110001101001010 -> which is 58186 and is stored in maskA
 
 The same procedure is applied to maskB and both maskA and maskB are compared to see if they are same;
 which means last 16 bits of startA and startB are same.
