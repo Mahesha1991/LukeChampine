@@ -1,4 +1,8 @@
-The code will generate some random value by using previously calculated numbers.
+The code is written in python.
+
+To run the code on terminal : python luke.py
+
+The code will generate some random values by using previously calculated numbers.
 These vaues are stored in startA and startB variables.
 A maskValue variable have been used and contains 16 one's.
 
