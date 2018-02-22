@@ -7,7 +7,7 @@ divisor = 2147483647
 startA = 65
 startB = 8921
 
-maskValue = 0xFFFF
+maskValue = 0xFFFF # it represent 16 one's
 
 loopCount = 0
 count = 0
